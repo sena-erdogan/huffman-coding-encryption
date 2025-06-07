@@ -1,1 +1,1 @@
-# huffman-coding-encryption
+# huffman-encoding-encryption
